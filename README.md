@@ -1,16 +1,75 @@
-## Hi there 👋
+<h1 align="center">Hey 👋 I'm Ciree</h1>
+<h3 align="center">Automation Developer • Minecraft Systems • Discord Bots • Web Tools</h3>
 
-<!--
-**Ciree2209/Ciree2209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🔭 Building **advanced Minecraft plugins & Discord bot systems**
+- 🌐 Developing **Elevacore (web automation platform)** *(currently in development)*
+- ⚙️ Creating scalable systems & automation tools
+- 🌱 Continuously learning & improving in **Java, JavaScript, TypeScript & backend systems**
+- ⚡ I love building things that *actually work in real environments*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Core Focus
+- 🧩 Minecraft Plugin Systems (PvP, Anti-Cheat, Performance)
+- 🤖 Discord Automation (moderation, ticketing, systems)
+- 🌐 Web Dashboards & Backend Tools
+- ⚙️ Business Automation Scripts
+
+---
+
+### 🛠️ Tech Stack
+**Languages:** Java, JavaScript, TypeScript, Python  
+**Backend:** Node.js, Express  
+**Frontend:** Next.js, TailwindCSS  
+**Databases:** MongoDB, MySQL, PostgreSQL  
+**DevOps:** Nginx, Cloudflare, Vercel  
+
+---
+
+### 📦 Featured Projects
+
+#### 🧩 Few of My Minecraft Systems (CireeX Series)
+- **CireeXAntiCheatDetection** → Advanced cheat detection system  
+- **CireeXCombatEngine** → Custom PvP combat mechanics  
+- **CireeXServerStabilizer** → Performance optimization & lag control  
+- **CireeXParties** → Party system for multiplayer gameplay  
+- **CireeXInvisPractice** → Practice environment tools  
+
+#### ⚙️ Core Systems
+- **CSMP-Core** → Core server system architecture  
+- **Practice-Core** → Practice mode backend system  
+- **VFFACore** → Free-for-all game logic system  
+
+---
+
+### 🌐 Web Projects
+
+#### 🚧 Elevacore (Under Development)
+> A scalable **automation & management platform** for handling workflows in over 25 industries.
+
+Planned features:
+- 📊 Dashboard for managing automation systems  
+- 🤖 Bot control & monitoring  
+- ⚙️ Workflow automation across industries  
+- 🔗 API integrations  
+
+---
+
+### 💼 Services
+- Custom Minecraft Plugin Development  
+- Discord Bot Development  
+- Web App Development  
+- Automation Systems  
+
+📩 Contact me on Discord: **hitreg_69**
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ciree2209&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ciree2209&layout=compact&theme=tokyonight" />
+</p>
