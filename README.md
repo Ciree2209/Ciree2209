@@ -65,11 +65,3 @@ Planned features:
 - Automation Systems  
 
 📩 Contact me on Discord: **hitreg_69**
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ciree2209&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ciree2209&layout=compact&theme=tokyonight" />
-</p>
