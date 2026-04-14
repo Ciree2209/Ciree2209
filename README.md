@@ -8,7 +8,7 @@
 - 🌐 Developing **Elevacore (web automation platform)** *(currently in development)*
 - ⚙️ Creating scalable systems & automation tools
 - 🌱 Continuously learning & improving in **Java, JavaScript, TypeScript & backend systems**
-- ⚡ I love building things that *LWK I dance when things work as planned*
+- ⚡ I love building things *LWK I dance when things work as planned*
 
 ---
 
