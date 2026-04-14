@@ -8,15 +8,15 @@
 - 🌐 Developing **Elevacore (web automation platform)** *(currently in development)*
 - ⚙️ Creating scalable systems & automation tools
 - 🌱 Continuously learning & improving in **Java, JavaScript, TypeScript & backend systems**
-- ⚡ I love building things that *actually work in real environments*
+- ⚡ I love building things that *LWK I dance when things work as planned*
 
 ---
 
 ### 🧠 Core Focus
 - 🧩 Minecraft Plugin Systems (PvP, Anti-Cheat, Performance)
-- 🤖 Discord Automation (moderation, ticketing, systems)
+- 🤖 Discord Automation (moderation,ticketing,systems,Utility)
 - 🌐 Web Dashboards & Backend Tools
-- ⚙️ Business Automation Scripts
+- ⚙️ Automation Scripts
 
 ---
 
@@ -61,7 +61,6 @@ Planned features:
 ### 💼 Services
 - Custom Minecraft Plugin Development  
 - Discord Bot Development  
-- Web App Development  
-- Automation Systems  
+- Web App Development    
 
 📩 Contact me on Discord: **hitreg_69**
